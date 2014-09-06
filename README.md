@@ -3,4 +3,9 @@ LearnC
 
 Experiments in C
 
-Following examples from http://c.learncodethehardway.org/book/
+
+Ressources
+==========
+* Learn C the hard way http://c.learncodethehardway.org/book/
+* C Bootcamp http://gribblelab.org/CBootcamp/
+
